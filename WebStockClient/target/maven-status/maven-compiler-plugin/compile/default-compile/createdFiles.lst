@@ -1,0 +1,6 @@
+com/eni/microservices/client/entite/Client.class
+com/eni/microservices/client/rest/ClientResource.class
+com/eni/microservices/client/service/ClientService.class
+com/eni/microservices/client/startup/InitialiserBean.class
+com/eni/microservices/client/JAXRSConfiguration.class
+com/eni/microservices/client/rest/ClientResource$1.class

@@ -1,6 +1,0 @@
-io/github/vasouv/customer/entity/Customer.class
-io/github/vasouv/customer/service/CustomerService.class
-io/github/vasouv/customer/JAXRSConfiguration.class
-io/github/vasouv/customer/rest/CustomerResource.class
-io/github/vasouv/customer/rest/CustomerResource$1.class
-io/github/vasouv/customer/startup/InitializerBean.class
