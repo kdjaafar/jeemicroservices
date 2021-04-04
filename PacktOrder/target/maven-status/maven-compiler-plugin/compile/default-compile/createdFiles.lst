@@ -1,0 +1,4 @@
+io/github/vasouv/order/service/CoffeeOrderService.class
+io/github/vasouv/order/JAXRSConfiguration.class
+io/github/vasouv/order/rest/CoffeeOrderResource.class
+io/github/vasouv/order/entity/CoffeeOrder.class

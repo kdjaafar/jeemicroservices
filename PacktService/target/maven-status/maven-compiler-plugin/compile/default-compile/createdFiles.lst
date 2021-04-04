@@ -1,0 +1,8 @@
+io/github/vasouv/service/JAXRSConfiguration.class
+io/github/vasouv/service/rest/ServiceAggregator$2.class
+io/github/vasouv/service/rest/ServiceAggregator$3.class
+io/github/vasouv/service/entity/CompleteCoffeeOrder.class
+io/github/vasouv/service/entity/Customer.class
+io/github/vasouv/service/entity/CoffeeOrder.class
+io/github/vasouv/service/rest/ServiceAggregator.class
+io/github/vasouv/service/rest/ServiceAggregator$1.class
