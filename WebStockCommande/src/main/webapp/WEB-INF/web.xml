@@ -7,9 +7,9 @@
     
     <!--Configuring an external datasource, like we would connect to MySQL or PostgreSQL-->
     <data-source>
-        <name>java:global/PacktOrderDS</name>
+        <name>java:global/WebStockCommandeDS</name>
         <class-name>org.h2.jdbcx.JdbcDataSource</class-name>
-        <url>jdbc:h2:mem:packt-orders;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE</url>
+        <url>jdbc:h2:mem:webstock-commandes;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE</url>
         <user>vs</user>
         <password>vs</password>
     </data-source>

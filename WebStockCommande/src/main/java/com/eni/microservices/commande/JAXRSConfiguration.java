@@ -1,4 +1,4 @@
-package io.github.vasouv.order;
+package com.eni.microservices.commande;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
@@ -9,7 +9,7 @@ import javax.ws.rs.core.Application;
  *
  * @author airhacks.com
  */
-@ApplicationPath("packt-orders")
+@ApplicationPath("webstock-commandes")
 public class JAXRSConfiguration extends Application {
 
 }

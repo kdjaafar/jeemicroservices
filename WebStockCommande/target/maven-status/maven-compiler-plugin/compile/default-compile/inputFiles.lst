@@ -1,4 +1,4 @@
-/Users/kdjaafar/Projects/Eni/repo/jeemicroservices/WebStockCommande/src/main/java/io/github/vasouv/order/JAXRSConfiguration.java
-/Users/kdjaafar/Projects/Eni/repo/jeemicroservices/WebStockCommande/src/main/java/io/github/vasouv/order/rest/CoffeeOrderResource.java
-/Users/kdjaafar/Projects/Eni/repo/jeemicroservices/WebStockCommande/src/main/java/io/github/vasouv/order/entity/CoffeeOrder.java
-/Users/kdjaafar/Projects/Eni/repo/jeemicroservices/WebStockCommande/src/main/java/io/github/vasouv/order/service/CoffeeOrderService.java
+/Users/kdjaafar/Projects/Eni/repo/jeemicroservices/WebStockCommande/src/main/java/com/eni/microservices/commande/JAXRSConfiguration.java
+/Users/kdjaafar/Projects/Eni/repo/jeemicroservices/WebStockCommande/src/main/java/com/eni/microservices/commande/rest/ArticleCommandeResource.java
+/Users/kdjaafar/Projects/Eni/repo/jeemicroservices/WebStockCommande/src/main/java/com/eni/microservices/commande/entite/ArticleCommande.java
+/Users/kdjaafar/Projects/Eni/repo/jeemicroservices/WebStockCommande/src/main/java/com/eni/microservices/commande/service/ArticleCommandeService.java

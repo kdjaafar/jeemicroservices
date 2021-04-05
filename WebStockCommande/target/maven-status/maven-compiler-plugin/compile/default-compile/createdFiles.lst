@@ -1,4 +1,4 @@
-io/github/vasouv/order/service/CoffeeOrderService.class
-io/github/vasouv/order/JAXRSConfiguration.class
-io/github/vasouv/order/rest/CoffeeOrderResource.class
-io/github/vasouv/order/entity/CoffeeOrder.class
+com/eni/microservices/commande/entite/ArticleCommande.class
+com/eni/microservices/commande/service/ArticleCommandeService.class
+com/eni/microservices/commande/JAXRSConfiguration.class
+com/eni/microservices/commande/rest/ArticleCommandeResource.class

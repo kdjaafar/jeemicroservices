@@ -75,5 +75,16 @@ public class Client {
     public void setEmail(String email) {
         this.email = email;
     }
+    /*
+    public Set<Commande> getCommandes()
+    {
+      return commandes;
+    }
+  
+    public void setCommandes(Set<Commande> commandes)
+    {
+      this.Commandes = commandes;
+    }*/
+  
 
 }
